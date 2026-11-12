@@ -1,0 +1,157 @@
+[
+  {
+    "qid": "q01",
+    "results": [
+      {
+        "doc_id": "P94",
+        "rank": 1
+      },
+      {
+        "doc_id": "P05",
+        "rank": 2
+      },
+      {
+        "doc_id": "P03",
+        "rank": 3
+      },
+      {
+        "doc_id": "P01",
+        "rank": 4
+      },
+      {
+        "doc_id": "P04",
+        "rank": 5
+      },
+      {
+        "doc_id": "P02",
+        "rank": 6
+      },
+      {
+        "doc_id": "P06",
+        "rank": 7
+      }
+    ]
+  },
+  {
+    "qid": "q02",
+    "results": [
+      {
+        "doc_id": "P08",
+        "rank": 1
+      },
+      {
+        "doc_id": "P07",
+        "rank": 2
+      },
+      {
+        "doc_id": "P95",
+        "rank": 3
+      },
+      {
+        "doc_id": "P96",
+        "rank": 4
+      },
+      {
+        "doc_id": "P97",
+        "rank": 5
+      }
+    ]
+  },
+  {
+    "qid": "q03",
+    "results": [
+      {
+        "doc_id": "P16",
+        "rank": 1
+      },
+      {
+        "doc_id": "P98",
+        "rank": 2
+      },
+      {
+        "doc_id": "P14",
+        "rank": 3
+      },
+      {
+        "doc_id": "P14",
+        "rank": 4
+      },
+      {
+        "doc_id": "P15",
+        "rank": 5
+      },
+      {
+        "doc_id": "P99",
+        "rank": 6
+      }
+    ]
+  },
+  {
+    "qid": "q04",
+    "results": [
+      {
+        "doc_id": "P21",
+        "rank": 1
+      },
+      {
+        "doc_id": "P9A",
+        "rank": 2
+      },
+      {
+        "doc_id": "P9B",
+        "rank": 3
+      }
+    ]
+  },
+  {
+    "qid": "q05",
+    "results": [
+      {
+        "doc_id": "P26",
+        "rank": 1
+      },
+      {
+        "doc_id": "P9C",
+        "rank": 2
+      },
+      {
+        "doc_id": "P25",
+        "rank": 3
+      },
+      {
+        "doc_id": "P27",
+        "rank": 4
+      }
+    ]
+  },
+  {
+    "qid": "q06",
+    "results": []
+  },
+  {
+    "qid": "q07",
+    "results": [
+      {
+        "doc_id": "P33",
+        "rank": 1
+      },
+      {
+        "doc_id": "P34",
+        "rank": 2
+      }
+    ]
+  },
+  {
+    "qid": "q09",
+    "results": [
+      {
+        "doc_id": "P38",
+        "rank": 1
+      },
+      {
+        "doc_id": "P39",
+        "rank": 2
+      }
+    ]
+  }
+]
